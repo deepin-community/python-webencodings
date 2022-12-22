@@ -1,0 +1,9 @@
+---
+Bug-Database: https://github.com/gsnedders/python-webencodings/issues
+Bug-Submit: https://github.com/gsnedders/python-webencodings/issues/new
+Documentation: https://pythonhosted.org/webencodings/
+Registry:
+  - Name: PyPI
+    Entry: webencodings
+Repository: https://github.com/gsnedders/python-webencodings.git
+Repository-Browse: https://github.com/gsnedders/python-webencodings
